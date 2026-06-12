@@ -132,8 +132,8 @@ footer {
 }
 
 .mapa iframe {
-  border-radius: 10px;
-  border: 2px solid #2e7d32;
-}function mostrarMensagem,(){
-document.get
+  border-radius: 10px;function mostrarMensagem,(){
+document.getElementByld("mensagem"). innerHTML=
+  "A união entre campo e cidade promove cidadania, sustentabilidade e qualidade de vida para todos!;"
 }
+  border: 2px solid #2e7d32;
